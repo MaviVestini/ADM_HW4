@@ -6,6 +6,7 @@ Github repository to submit ADM's **Homework 4**
 Work done and compiled by **Group 5** made up of the following members:
 - Raikhan Akhmetkaliyeva
 - Maria Vittoria Vestini
+- Lorenzo Incoronato
 
 <br>
 
